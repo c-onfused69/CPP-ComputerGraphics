@@ -13,6 +13,7 @@ This C++ project aims to generate building structure designs using circles and l
 - Export designs as image files.
 
 ## Target Outcome Image
+[![CPP-ComputerGraphics]([https://cdn.tailgrids.com/play-tailwind.jpg](https://raw.githubusercontent.com/c-onfused69/CPP-ComputerGraphics/master/img/cg-temp%201.jpg))](https://github.com/c-onfused69/CPP-ComputerGraphics)
 
 
 ## Expected Outcomes
@@ -31,3 +32,12 @@ This C++ project aims to generate building structure designs using circles and l
 
 ## Conclusion
 This project lays the foundation for a versatile architectural design tool. It empowers users to explore and visualize architectural designs interactively.
+
+## 📃 License
+
+Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+
+## 💙 Support
+
+You can always support this project by [Starring🌟 This Repository](https://github.com/c-onfused69/CPP-ComputerGraphics)
+and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
