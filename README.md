@@ -13,7 +13,7 @@ This C++ project aims to generate building structure designs using circles and l
 - Export designs as image files.
 
 ## Target Outcome Image
-[![CPP-ComputerGraphics]([https://cdn.tailgrids.com/play-tailwind.jpg](https://raw.githubusercontent.com/c-onfused69/CPP-ComputerGraphics/master/img/cg-temp%201.jpg))](https://github.com/c-onfused69/CPP-ComputerGraphics)
+<a href="[https://github.com/c-onfused69/CPP-ComputerGraphics](https://github.com/c-onfused69/CPP-ComputerGraphics)" target="blank"><img align="center" src="https://raw.githubusercontent.com/c-onfused69/CPP-ComputerGraphics/master/img/cg-temp%201.jpg" alt="CPP-ComputerGraphics" height="392" width="560" /></a>
 
 
 ## Expected Outcomes
