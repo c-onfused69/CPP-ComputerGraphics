@@ -22,14 +22,21 @@ int main()
     floodfill(71,68,WHITE);
     //Cloud2
     setfillstyle(SOLID_FILL,WHITE);
-    circle(475,97,20);
-    floodfill(476,98,WHITE);
-
-
+    circle(490,97,25);
+    floodfill(491,98,WHITE);
     //cloud2
     setfillstyle(SOLID_FILL,WHITE);
-    rectangle(472,80,582,111);
-    floodfill(473,81,WHITE);
+    circle(521,98,25);
+    floodfill(522,99,WHITE);
+    //Cloud2
+    setfillstyle(SOLID_FILL,WHITE);
+    circle(552,97,25);
+    floodfill(553,98,WHITE);
+    //cloud2
+    setfillstyle(SOLID_FILL,WHITE);
+    circle(521,68,30);
+    floodfill(522,69,WHITE);
+
 
 
 
