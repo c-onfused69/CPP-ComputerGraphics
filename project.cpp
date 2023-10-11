@@ -1,8 +1,16 @@
 #include<graphics.h>
+using namespace std;
 int main()
 {
     int i, gd = DETECT , gm;
     initgraph (&gd,&gm,(char*)"");
+
+
+
+int poly2[12]={325,294, 350,390, 416,305, 416,386, 325,386 ,325,294};
+drawpoly(6,poly2);
+
+
     //cloud1
     setfillstyle(SOLID_FILL,WHITE);
     circle(28,73,18);
@@ -38,10 +46,8 @@ int main()
     floodfill(522,69,WHITE);
 
 
-
-
     //BG
-    setfillstyle(SOLID_FILL,LIGHTCYAN);
+    setfillstyle(SOLID_FILL,LIGHTGRAY);
     rectangle(0,0,640,418);
     floodfill(1,1,WHITE);
     //GREEN
@@ -52,7 +58,7 @@ int main()
 
 
 
-
+setcolor(BLACK);
 line(15,418,630,418); // base line
 line(180,418,180,331);//H Line 1
 line(219,418,219,381);// L2
@@ -190,6 +196,8 @@ line(348,169,406,187);
 line(348,154,403,172);
 line(406,170,403,172);
 line(403,172,403,185);
+
+
 
 
 
