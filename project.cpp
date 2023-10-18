@@ -14,6 +14,31 @@ int main()
     fillpoly(5, arrbgb);
     ///////////////////////BG END///////////////////////
 
+    ///////////////////////TREE START///////////////////////
+    setcolor(BLACK);
+    int arrt3[] = {40,418, 40,345, 66,345, 66,418, 40,418};
+    setfillstyle(1, BROWN);
+    fillpoly(5, arrt3);
+    setcolor(BLACK);
+    int arrt4[] = {6,345, 23,316, -2,318, 43,250, 20,255, 53,199, 86,255, 63,250, 108,318, 83,316, 100,345 ,6,345};
+    setfillstyle(1, GREEN);
+    fillpoly(12, arrt4);
+
+    int arrt1[] = {80,418, 80,345, 106,345, 106,418, 80,418};
+    setfillstyle(1, BROWN);
+    fillpoly(5, arrt1);
+    setcolor(BLACK);
+    int arrt2[] = {46,345, 63,316, 38,318, 73,260, 60,265, 93,205, 126,265, 113,260, 148,318, 123,316, 140,345 ,46,345};
+    setfillstyle(1, GREEN);
+    fillpoly(12, arrt2);
+
+
+
+
+
+
+    ///////////////////////TREE END///////////////////////
+
     ////////////////BUILDING START//////////////////
     setcolor(BLACK);
     int arr1[] = {217, 418, 247, 386, 327, 386, 327, 418, 217, 418};
